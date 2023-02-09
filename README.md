@@ -7,7 +7,7 @@ Tools: Microsoft SQL Server, Microsoft Power BI.
 Data Cleansing & Transformation (SQL):
 
 To create the necessary data model for doing analysis and fulfilling the business needs defined in the user stories the following tables were extracted using SQL.
-One data source (sales budgets) were provided in Excel format and were connected in the data model in a later step of the process.
+
 
 
 Real Estate Dashboard:
